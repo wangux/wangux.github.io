@@ -1,0 +1,1 @@
+const e={key:"v-e7eebbec",path:"/js/async.html",title:"\u540C\u6B65\u4E0E\u5F02\u6B65 \u963B\u585E\u4E0E\u975E\u963B\u585E",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646923159e3,contributors:[{name:"\u9648\u5FD7\u7965",email:"chenzhixiang@idwzx.com",commits:1}]},filePathRelative:"js/async.md"};export{e as data};

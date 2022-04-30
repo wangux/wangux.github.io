@@ -1,0 +1,1 @@
+const e={key:"v-1ef85956",path:"/project/monorepo.html",title:"monorepo",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646923159e3,contributors:[{name:"\u9648\u5FD7\u7965",email:"chenzhixiang@idwzx.com",commits:1}]},filePathRelative:"project/monorepo.md"};export{e as data};

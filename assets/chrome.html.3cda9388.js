@@ -1,0 +1,1 @@
+const e={key:"v-970157b2",path:"/performance/chrome.html",title:"\u6D4F\u89C8\u5668\u67B6\u6784\u4EE5\u53CA\u6E32\u67D3\u6D41\u7A0B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646923159e3,contributors:[{name:"\u9648\u5FD7\u7965",email:"chenzhixiang@idwzx.com",commits:1}]},filePathRelative:"performance/chrome.md"};export{e as data};
